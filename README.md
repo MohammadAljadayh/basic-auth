@@ -34,12 +34,12 @@
 - Returns : 
 ```
 {
-    "id": 6,
+    "id": 2,
     "username": "root",
-    "password": "$2b$10$NzKreTJ8EQyY.ogIBlMDs.sM0xALFLz9kxyZCV7.9G1l4noAVvIIW",
-    "updatedAt": "2021-11-07T13:12:16.956Z",
-    "createdAt": "2021-11-07T13:12:16.956Z"
-}
+    "password": "$2b$10$crd318T2i747Lph8kGGwO.W8X4/YKkWhzPSfWjI/7jlRVpAe9QDfa",
+    "updatedAt": "2021-11-07T15:31:59.924Z",
+    "createdAt": "2021-11-07T15:31:59.924Z"
+
 ```
 - Endpoint: `/signin`
 
@@ -49,11 +49,11 @@
 - Returns 
 ```
 {
-    "id": 6,
+    "id": 2,
     "username": "root",
-    "password": "$2b$10$NzKreTJ8EQyY.ogIBlMDs.sM0xALFLz9kxyZCV7.9G1l4noAVvIIW",
-    "createdAt": "2021-11-07T13:12:16.956Z",
-    "updatedAt": "2021-11-07T13:12:16.956Z"
+    "password": "$2b$10$crd318T2i747Lph8kGGwO.W8X4/YKkWhzPSfWjI/7jlRVpAe9QDfa",
+    "createdAt": "2021-11-07T15:31:59.924Z",
+    "updatedAt": "2021-11-07T15:31:59.924Z"
 }
 ```
 **Tests**
