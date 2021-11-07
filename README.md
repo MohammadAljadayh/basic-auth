@@ -5,9 +5,10 @@
 ### Deployment Test
 
 
-- [ci/cd GitHub Actions]().
-- [herokuapp Link Main ]().
-- [PULL_REQUEST ]().
+- [ci/cd GitHub Actions](https://github.com/MohammadAljadayh/basic-auth/actions).
+- [herokuapp Link Main ](https://mohammadbasicauth.herokuapp.com/).
+-[PULL_REQUEST ](https://github.com/MohammadAljadayh/basic-auth/pull/1).
+- [PULL_REQUEST ](https://github.com/MohammadAljadayh/basic-auth/pull/2).
 - [Main Repo link](https://github.com/MohammadAljadayh/basic-auth).
 
 ### Setup 
